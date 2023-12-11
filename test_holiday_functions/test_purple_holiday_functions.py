@@ -17,8 +17,8 @@ assert not brings_figgy_pudding(5, 8, 2, 0) # even though 0 quizzes means the st
 
 
 # Benjamin
-
-
+assert not home_for_the_holidays("Ben") # Ben is not between 5 and 13 letters
+assert in_the_holiday_spirit(5, 10) # a fifth former with 10 demerits
 
 # Callum
 
